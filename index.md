@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Ka2's Blog
 ---
+Project
+Coding exercises
 
